@@ -1,0 +1,4 @@
+import express from "express"
+
+DB_USER=book_management
+DB_KEY=book_management
