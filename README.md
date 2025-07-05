@@ -25,7 +25,7 @@ A simple RESTful API for managing a book library system where users can borrow b
 
 # How to run this in locally
 
-1. Clone the repo: git colne https://github.com/arahman-webdev/l-2_assingment_3.git
+1. Clone the repo: git colne https://github.com/arahman-webdev/Book-management-server.git
 2. cd your project name.
 
 # Install dependecies
